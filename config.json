@@ -1,0 +1,5 @@
+{
+    "apiKey": "YOUR_OPENWEATHERMAP_API_KEY",
+    "zipCode": "37301",
+    "country": "US"
+}
